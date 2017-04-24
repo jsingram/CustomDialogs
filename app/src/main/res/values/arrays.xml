@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_choices">
+        <item>Basketball</item>
+        <item>Football</item>
+        <item>Soccer</item>
+    </string-array>
+    <string-array name="toppings">
+        <item>Cheese</item>
+        <item>Pineapples</item>
+        <item>Pepperoni</item>
+    </string-array>
+</resources>
